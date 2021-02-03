@@ -35,7 +35,7 @@ function Header() {
         <Link to="/">
           <img
             className="header__logo"
-            src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+            src="https://res.cloudinary.com/lmj6rf6tz/image/upload/c_scale,w_180/v1567531145/elektropay/assets/img/grey_logo.png"
             alt=""
           />
         </Link>
@@ -147,8 +147,8 @@ function Header() {
         <div className="header__bottom-app">
           <img
             className="header__bottom-image"
-            alt="Amazon App"
-            src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/MAI/Sweepstakes/June20/SWM_DownloadApp._CB410314483_.jpg"
+            alt="Elektropay App"
+            src="https://res.cloudinary.com/lmj6rf6tz/image/upload/c_scale,w_200/v1567499258/elektropay/assets/img/logo_white.png"
           />
         </div>
       </div>
